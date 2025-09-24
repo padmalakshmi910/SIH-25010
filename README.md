@@ -55,7 +55,7 @@ Agriculture, FoodTech & Rural Development
 
 2. Analytics on app usage, crop trends, and alert effectiveness.
 
-3.Farmer feedback loop to improve advisory accuracy and AI model performance.
+3. Farmer feedback loop to improve advisory accuracy and AI model performance.
 
 ## Feasibility and Viability
 1. Training and awareness programs can improve adoption.
