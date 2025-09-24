@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24.09.2025
+## Register Number:25017315
+## Name:Padma Lakshmi G
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,39 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+1. Lack of timely and personalized crop guidance
+
+2. Inadequate access to weather, soil, and pest information
+
+3. Poor linkage to markets and government schemes
+
+## Diagram:
+![alt text](image.png)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+1. Real-time dashboard for system administrators.
+
+2. Analytics on app usage, crop trends, and alert effectiveness.
+
+3.Farmer feedback loop to improve advisory accuracy and AI model performance.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+1. Training and awareness programs can improve adoption.
+
+2. Partnerships with local agricultural extension officers and NGOs facilitate reach.
+
+3. Scalable architecture supports phased rollout and regional expansion.
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+1. Increases crop yield through data-driven decisions
+
+2. Reduces crop losses with real-time alerts (pests, diseases, weather)
+
+3. Enhances income stability and reduces financial risk
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+1. Machine Learning algorithms like Random Forest and XGBoost are effective for crop recommendation based on soil and climate data.
+
+2. AI-powered pest and disease detection using image recognition (CNN) achieves high accuracy in early identification.
+
+3. Agro-climatic planning helps farmers save costs and improves resilience to weather changes.
